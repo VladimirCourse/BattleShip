@@ -1,0 +1,164 @@
+P1 аttack the cell number A1 of player P2 and wound ship
+P1 аttack the cell number A2 of player P2 and missing
+P2 аttack the cell number A1 of player P1 and wound ship
+P2 аttack the cell number A2 of player P1 and missing
+P1 аttack the cell number B1 of player P2 and wound ship
+P1 аttack the cell number C1 of player P2 and wound ship
+P1 аttack the cell number D1 of player P2 and killed the ship
+P1 аttack the cell number A5 of player P2 and wound ship
+P1 аttack the cell number A6 of player P2 and missing
+P2 аttack the cell number B1 of player P1 and wound ship
+P2 аttack the cell number C1 of player P1 and killed the ship
+P2 аttack the cell number A6 of player P1 and missing
+P1 аttack the cell number B5 of player P2 and missing
+P2 аttack the cell number B5 of player P1 and missing
+P1 аttack the cell number A4 of player P2 and wound ship
+P1 аttack the cell number A3 of player P2 and killed the ship
+P1 аttack the cell number A9 of player P2 and missing
+P2 аttack the cell number C4 of player P1 and missing
+P1 аttack the cell number B8 of player P2 and missing
+P2 аttack the cell number D3 of player P1 and missing
+P1 аttack the cell number C7 of player P2 and missing
+P2 аttack the cell number E2 of player P1 and missing
+P1 аttack the cell number D6 of player P2 and missing
+P2 аttack the cell number F1 of player P1 and wound ship
+P2 аttack the cell number F2 of player P1 and missing
+P1 аttack the cell number E5 of player P2 and missing
+P2 аttack the cell number G1 of player P1 and missing
+P1 аttack the cell number F4 of player P2 and missing
+P2 аttack the cell number E1 of player P1 and killed the ship
+P2 аttack the cell number A10 of player P1 and missing
+P1 аttack the cell number G3 of player P2 and missing
+P2 аttack the cell number B9 of player P1 and missing
+P1 аttack the cell number H2 of player P2 and missing
+P2 аttack the cell number C8 of player P1 and missing
+P1 аttack the cell number I1 of player P2 and missing
+P2 аttack the cell number D7 of player P1 and missing
+P1 аttack the cell number C5 of player P2 and missing
+P2 аttack the cell number E6 of player P1 and missing
+P1 аttack the cell number D4 of player P2 and killed the ship
+P1 аttack the cell number C10 of player P2 and wound ship
+P1 аttack the cell number D10 of player P2 and missing
+P2 аttack the cell number F5 of player P1 and missing
+P1 аttack the cell number C9 of player P2 and missing
+P2 аttack the cell number G4 of player P1 and missing
+P1 аttack the cell number B10 of player P2 and killed the ship
+P1 аttack the cell number E8 of player P2 and missing
+P2 аttack the cell number H3 of player P1 and missing
+P1 аttack the cell number F7 of player P2 and missing
+P2 аttack the cell number I2 of player P1 and missing
+P1 аttack the cell number G6 of player P2 and missing
+P2 аttack the cell number J1 of player P1 and missing
+P1 аttack the cell number H5 of player P2 and missing
+P2 аttack the cell number E10 of player P1 and wound ship
+P2 аttack the cell number F10 of player P1 and missing
+P1 аttack the cell number I4 of player P2 and missing
+P2 аttack the cell number E9 of player P1 and missing
+P1 аttack the cell number J3 of player P2 and wound ship
+P1 аttack the cell number J4 of player P2 and wound ship
+P1 аttack the cell number J5 of player P2 and killed the ship
+P1 аttack the cell number A8 of player P2 and missing
+P2 аttack the cell number D10 of player P1 and wound ship
+P2 аttack the cell number C10 of player P1 and wound ship
+P2 аttack the cell number B10 of player P1 and killed the ship
+P2 аttack the cell number A5 of player P1 and wound ship
+P2 аttack the cell number A6 of player P1 and missing
+P1 аttack the cell number B7 of player P2 and missing
+P2 аttack the cell number B5 of player P1 and missing
+P1 аttack the cell number C6 of player P2 and missing
+P2 аttack the cell number A4 of player P1 and killed the ship
+P2 аttack the cell number C7 of player P1 and missing
+P1 аttack the cell number D5 of player P2 and missing
+P2 аttack the cell number D6 of player P1 and missing
+P1 аttack the cell number E4 of player P2 and missing
+P2 аttack the cell number E5 of player P1 and missing
+P1 аttack the cell number F3 of player P2 and missing
+P2 аttack the cell number F4 of player P1 and missing
+P1 аttack the cell number G2 of player P2 and missing
+P2 аttack the cell number G3 of player P1 and missing
+P1 аttack the cell number H1 of player P2 and missing
+P2 аttack the cell number H2 of player P1 and missing
+P1 аttack the cell number D8 of player P2 and missing
+P2 аttack the cell number I1 of player P1 and missing
+P1 аttack the cell number E7 of player P2 and missing
+P2 аttack the cell number F8 of player P1 and missing
+P1 аttack the cell number F6 of player P2 and missing
+P2 аttack the cell number G7 of player P1 and missing
+P1 аttack the cell number G5 of player P2 and killed the ship
+P1 аttack the cell number E10 of player P2 and missing
+P2 аttack the cell number H6 of player P1 and missing
+P1 аttack the cell number F9 of player P2 and missing
+P2 аttack the cell number I5 of player P1 and missing
+P1 аttack the cell number G8 of player P2 and missing
+P2 аttack the cell number J4 of player P1 and wound ship
+P2 аttack the cell number J5 of player P1 and wound ship
+P2 аttack the cell number J6 of player P1 and killed the ship
+P2 аttack the cell number A8 of player P1 and missing
+P1 аttack the cell number H7 of player P2 and missing
+P2 аttack the cell number B7 of player P1 and killed the ship
+P2 аttack the cell number D5 of player P1 and missing
+P1 аttack the cell number I6 of player P2 and missing
+P2 аttack the cell number E4 of player P1 and missing
+P1 аttack the cell number J5 of player P2 and missing
+P2 аttack the cell number F3 of player P1 and missing
+P1 аttack the cell number F2 of player P2 and missing
+P2 аttack the cell number G2 of player P1 and missing
+P1 аttack the cell number G1 of player P2 and wound ship
+P1 аttack the cell number G2 of player P2 and missing
+P2 аttack the cell number H1 of player P1 and missing
+P1 аttack the cell number H1 of player P2 and missing
+P2 аttack the cell number E8 of player P1 and missing
+P1 аttack the cell number F1 of player P2 and killed the ship
+P1 аttack the cell number G10 of player P2 and wound ship
+P1 аttack the cell number H10 of player P2 and missing
+P2 аttack the cell number F7 of player P1 and missing
+P1 аttack the cell number G9 of player P2 and missing
+P2 аttack the cell number G6 of player P1 and killed the ship
+P2 аttack the cell number G9 of player P1 and missing
+P1 аttack the cell number F10 of player P2 and killed the ship
+P1 аttack the cell number A7 of player P2 and missing
+P2 аttack the cell number H8 of player P1 and missing
+P1 аttack the cell number B6 of player P2 and missing
+P2 аttack the cell number I7 of player P1 and missing
+P1 аttack the cell number C5 of player P2 and missing
+P2 аttack the cell number J6 of player P1 and missing
+P1 аttack the cell number D4 of player P2 and missing
+P2 аttack the cell number H10 of player P1 and wound ship
+P2 аttack the cell number I10 of player P1 and missing
+P1 аttack the cell number E3 of player P2 and missing
+P2 аttack the cell number H9 of player P1 and missing
+P1 аttack the cell number F2 of player P2 and missing
+P2 аttack the cell number G10 of player P1 and killed the ship
+P2 аttack the cell number C3 of player P1 and missing
+P1 аttack the cell number G1 of player P2 and missing
+P2 аttack the cell number D2 of player P1 and missing
+P1 аttack the cell number C8 of player P2 and missing
+P2 аttack the cell number E1 of player P1 and missing
+P1 аttack the cell number D7 of player P2 and killed the ship
+P1 аttack the cell number F8 of player P2 and missing
+P2 аttack the cell number C5 of player P1 and missing
+P1 аttack the cell number G7 of player P2 and missing
+P2 аttack the cell number D4 of player P1 and killed the ship
+P2 аttack the cell number D8 of player P1 and missing
+P1 аttack the cell number H6 of player P2 and missing
+P2 аttack the cell number E7 of player P1 and missing
+P1 аttack the cell number I5 of player P2 and missing
+P2 аttack the cell number F6 of player P1 and missing
+P1 аttack the cell number J4 of player P2 and missing
+P2 аttack the cell number G5 of player P1 and missing
+P1 аttack the cell number H3 of player P2 and missing
+P2 аttack the cell number H4 of player P1 and missing
+P1 аttack the cell number I2 of player P2 and missing
+P2 аttack the cell number I3 of player P1 and missing
+P1 аttack the cell number J1 of player P2 and missing
+P2 аttack the cell number J2 of player P1 and missing
+P1 аttack the cell number H8 of player P2 and missing
+P2 аttack the cell number G8 of player P1 and missing
+P1 аttack the cell number I7 of player P2 and missing
+P2 аttack the cell number H7 of player P1 and missing
+P1 аttack the cell number J6 of player P2 and missing
+P2 аttack the cell number I6 of player P1 and missing
+P1 аttack the cell number I8 of player P2 and missing
+P2 аttack the cell number J5 of player P1 and missing
+P1 аttack the cell number J7 of player P2 and missing
+P2 аttack the cell number I8 of player P1 and :(
